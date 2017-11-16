@@ -1,4 +1,4 @@
-# Spring-Boot-COurse-Management-App
+# Spring-Boot-Course-Management-App
 
 1. Developed application for course management System using Spring Boot and Spring Tool Suite IDE.
   
